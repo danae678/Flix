@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/danae678/Flix/blob/main/Flix.gif)
+![](https://github.com/danae678/Flix/blob/main/Flix2.gif)
 
 
 ## Notes
